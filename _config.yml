@@ -1,2 +1,2 @@
 name: mmlac.com - Markus Lachinger
-pygments: true
+highlighter: 'rouge'
